@@ -1,0 +1,9 @@
+table.webform-status tbody th,
+table.webform-status-all tbody th {
+  width: 200px;
+}
+
+div.visualize {
+  font-size: 0.6em;
+  font-family: "Lucida Grande",Verdana,serif;
+}

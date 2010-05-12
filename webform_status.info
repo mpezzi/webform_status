@@ -1,0 +1,8 @@
+; $Id$
+name            = "Webform Status"
+description     = "Provide ability to view the status of a webform."
+package         = "Webform"
+version         = "6.x-1.0"
+core            = "6.x"
+
+dependencies[]  = webform
